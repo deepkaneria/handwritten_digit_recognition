@@ -1,0 +1,5 @@
+numpy==1.19.2
+Keras==2.4.3
+pywin32==300
+Pillow==8.0.1
+win32gui==221.6
